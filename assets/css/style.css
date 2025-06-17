@@ -1,0 +1,9 @@
+/* etiqueta normal = nada
+    etiqueta universal = *
+    etiqueta id = #
+    etiqueta clase = . 
+*/
+
+body{
+    background: blue;
+}
